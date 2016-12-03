@@ -1,3 +1,4 @@
+<html>
 <div id="Page1" class="page" style="">
   <div style="background-color:white; padding:10px;">
     <h1 style="font-family:verdana; text-align:center; font-size:280%;">Money Maker</h1>
@@ -26,7 +27,6 @@
      </h3>
      </div>
      </div>
-     <norm>
      <p>
        At MoneyMaker©, we value our fellow people. We understand that you may have some doubts on our ability to help you. 
        If you are not satisfied with us, we will gladly assist you in choosing a better financial plan, or retract the money given to you. 
@@ -44,7 +44,6 @@
      <p>
      Please click on "I agree with the terms" if you agree with the above terms and would like to continue.
      </p>
-     </norm>
      <p style="text-align: center; background-color:silver;color:black;padding:25px;"><span onclick="show('Page3');">I agree with the terms</span>
 </p>
      <script>
@@ -98,6 +97,10 @@ document.getElementById("date").innerHTML = Date();
 <div id="Page6" class="page" style="display:none">
     Content of page 6
 </div>
+</div>
+</div>
+</html>
+
 
 
 
